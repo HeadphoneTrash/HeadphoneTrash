@@ -16,7 +16,7 @@ $\color{#A7A7A7}{\textsf{PRONOUNS}}$ - he/they/it<br />
   
 $\color{#A7A7A7}{\textsf{MEDIA}}$ - Deadlock, Degrees of Lewdity, FFXIV, Fire Emblem, Honkai Star Rail, League of Legends, Marvel Rivals, Persona (3&4), Pokémon, ULTRAKILL, Warhammer 40k, X-Men<br />
 
-$\color{#A7A7A7}{\textsf{CHARACTERS}}$ - Avery (DoL), Bailey (DoL), Chrom (FE), Corbeau (Pokémon), Gabriel (ULTRAKILL), Haurchefant (FFXIV), Lahabrea (FFXIV), Magneto (X-Men), Seteth (FE), Trazyn (40K), Ultron (Marvel), Varka (Genshin), Welt (HSR), Yu/Souji (P4)<br />
+$\color{#A7A7A7}{\textsf{CHARACTERS}}$ - Avery (DoL), Bailey (DoL), Chrom (FE), Corbeau (Pokémon), Doorman (Deadlock), Gabriel (ULTRAKILL), Haurchefant (FFXIV), Lahabrea (FFXIV), Magneto (X-Men), Seteth (FE), Trazyn (40K), Ultron (Marvel), Varka (Genshin), Welt (HSR), Yu/Souji (P4)<br />
 
 <p align="center"> $\tiny\color{#5E5E5E}{\textsf{∘₊✧ ────────────────────────────────────────────────────────────────────────────────────────────────────── ✧₊∘}}$<br />
 
