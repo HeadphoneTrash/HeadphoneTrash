@@ -27,4 +27,4 @@ $\color{#A7A7A7}{\textsf{PONYTOWN SPECIFIC}}$ - I tend to be offtab, but whisper
 $\color{#A7A7A7}{\textsf{DNI}}$ - I DO NOT wish to engage with people who align themselves as TERFs, PEDO/MAPs, zionists, or pro-MAGA. I'm genuinely not a part of anti vs pro discourse. I have personal hard lines I find uncomfortable to be portrayed in media, BUT I'm also a firm believer that fiction =/= reality. I understand that it can affect reality for some people, but my IRL morals are not dictated by what villain or trope I engage with in fiction, nor does it mean I condone every action any character has ever taken. If that makes you uncomfortable, that's totally alright with me! Genuinely block as needed, I will take no offence.
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HeadphoneTrash)
+<p align="center"> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HeadphoneTrash)
